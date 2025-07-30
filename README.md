@@ -1,1 +1,1 @@
-# Ecommerce-Sales-revanue-Forecasting-based-on-Geo-clustering
+# Ecommerce-Sales-revenue-Forecasting-based-on-Geo-clustering
