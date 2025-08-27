@@ -1,0 +1,3 @@
+Download the data from given link :
+
+https://huggingface.co/datasets/neuralsorcerer/geographic-product-demand
